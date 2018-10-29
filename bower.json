@@ -21,7 +21,7 @@
     "jsdom": "^8.1.0",
     "rgbcolor": "^1.0.1",
     "stackblur-canvas": "^1.4.1",
-    "xmldom": "^0.1.22"
+    "xmldom": "~0.1.16"
 },
   "license": "MIT"
 }
